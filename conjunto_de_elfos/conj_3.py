@@ -1,60 +1,77 @@
 aelfo = ["2597", "7554", "9150", "5701", "8972", "7443", "6788", "3224"]
+int_aelfo = map(int, aelfo)
 
 belfo = ["6098", "7293", "6994", "8305", "7896", "2339", "3312", "7702", "3616"] 
+int_belfo = map(int, belfo)
 
 celfo = [ "55975"]
+int_celfo = map(int, celfo)
 
 delfo = [ "2514", "10887"]
+int_delfo = map(int, delfo)
 
 felfo = ["7264", "10835",  "21533"]
+int_felfo = map(int, felfo)
 
 #don't panic
 gelfo = [ "6666", "1428", "6668", "7673", "2755", "3344", "5937", "6942", "7279", "7284", "3344"]
+int_gelfo = map(int, gelfo)
 
 helfo = [ "4809"]
-
-# eu achei, era uma linha msm
-#leeene
-# aa blza, ent a gnt continua amanhã
-# me ve?
-#vou ter q vazar do pc, minha irma ta querendo dormir com o bebe
-#mas eu to fazneodo mto barulho no teclado
-#simmmmmm, apoio com toda ctz
-#antes dela me esmurrar, uma otima noite pra vc
-#tchauuu
+int_helfo = map(int, helfo)
 
 jelfo = [ "4748", "7859", "5322", "3460", "3728", "2462", "7973", "1576"]
+int_jelfo = map(int, jelfo)
 
 kelfo = [ "1207", "1949", "2608", "1448", "2317", "3410", "7804", "2404", "9159"]
+int_kelfo = map(int, kelfo)
 
 lelfo = [ "38251" ]
+int_lelfo = map(int, lelfo)
 
 melfo = [ "10983", "5513", "9496", "7341", "11958", "7265"]
+int_melfo = map(int, melfo)
 
 nelfo = [ "10483", "7081", "5477", "12178"]
+int_nelfo = map(int, nelfo)
 
 oelfo = [ "8421", "13928", "7231", "10781", "11620"] 
+int_oelfo = map(int, oelfo)
+
 #-----------------------------------------------
 oertes = [ "7219", "2204", "5179", "5011", "4139", "2160", "6130", "1902", "5293", "8458"]
 #----------------------------------------------
+int_oertes = map(int, oertes)
+
 pelfo = [ "13895", "10711", "10857", "14214"]
+int_pelfo = map(int, pelfo)
 
 qelfo = [ "9062", "4001", "8483", "4260", "9408"]
+int_qelfo = map(int, qelfo)
 
 relfo= [ "8856", "2473", "4738", "9554", "1238", "6186", "1747", "6853", "8308"]
+int_relfo = map(int, relfo)
 
 selfo = [ "6468", "5359", "8925", "7929", "9055", "6194", "4431", "4177"]
+int_selfo = map(int, selfo)
 
 telfo = [ "1452", "2594", "5079", "6108", "7286", "6997", "1052", "4952", "2458", "5843", "3390"]
+int_telfo = map(int, telfo)
 
 uelfo= [ "59084" ]
+int_uelfo = map(int, uelfo)
 
 velfo = [ "4350", "2892", "6057", "6449", "3274", "4882", "2824", "2625", "2761", "6381", "1803", "2641", "6303", "3518"]
+int_velfo = map(int, velfo)
 
 welfo = [ "4595", "15941", "14489", "12371", "13428"]
+int_welfo = map(int, welfo)
 
 xelfo = [ "6748", "3113", "13130", "13855", "10202"]
+int_xelfo = map(int, xelfo)
 
 yelfo = [ "4461", "4550", "3781", "5173", "2232", "3067", "3125", "3914", "5166", "4059", "1403", "1913", "2538", "5819"]
+int_yelfo = map(int, yelfo)
 
 zelfo = [ "5492", "2956", "6397", "5485", "3908", "1764", "2853", "2690", "2751", "6816", "6510", "5134", "2251"]
+int_zelfo = map(int, zelfo)
