@@ -11,3 +11,5 @@ if vars.tsomaconj1 < vars.tsomaconj2:
     print(vars.tsomaconj2)
 else:
     print("n")
+
+

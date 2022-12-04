@@ -1,7 +1,7 @@
-# - analisar os dados;
-# - dividir os elfos;
-# - somar o valor de calorias para cada elfo;
-# - definir quem tem o lanche mais calórico;
+# - analisar os dados; [analyze the data]
+# - dividir os elfos; [dived the elvs]
+# - somar o valor de calorias para cada elfo;[sum each elv calories]
+# - definir quem tem o lanche mais calórico; [define wich one has more calories]
 
 #---------------------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------------------
