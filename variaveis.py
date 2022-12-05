@@ -12,7 +12,7 @@ from conjunto_de_elfos import conj_9 as cj9
 
 # simple test of function:
 # the first 4 lists from the fi9st two cj's are selected and then conpared to see wich is biier.
-asoma19= sum(cj1.int_elfoA)
+asoma1 = sum(cj1.int_elfoA)
 asoma2 = sum(cj1.int_elfoB)
 asoma3 = sum(cj1.int_elfoC)
 asoma4 = sum(cj1.int_elfoD)
