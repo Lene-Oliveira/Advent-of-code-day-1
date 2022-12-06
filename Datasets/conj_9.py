@@ -28,4 +28,3 @@ int_elfo234 = map(int, m2.elfo234)
 int_elfo235 = map(int, m2.elfo235)
 
 int_elfo236 = map(int, m2.elfo236)
-

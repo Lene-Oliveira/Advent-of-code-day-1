@@ -1,83 +1,58 @@
-elfo1 = ['10062', '15651', '1271', '14355', '7220']
-int_elfo1 = map(int, elfo1)
+'''Declaring the group of Elf's calories as int.'''
+import main2 as m2
 
-elfo2 = ['4878', '1754', '8466', '4741', '2582', '3003', '5327', '3172', '1327', '6310']
-int_elfo2 = map(int, elfo2)
+int_elfo1 = map(int, m2.elfo1)
 
-elfo3 = ['22413', '4145', '22294']
-int_elfo3 = map(int, elfo3)
+int_elfo2 = map(int, m2.elfo2)
 
-elfo4 = ['23108', '30453']
-int_elfo4 = map(int, elfo4)
+int_elfo3 = map(int, m2.elfo3)
 
-elfo5 = ['2084', '3496', '4800', '1388', '8728', '6380', '6397', '2558', '2120', '6159']
-int_elfo5 = map(int, elfo5)
+int_elfo4 = map(int, m2.elfo4)
 
-elfo6 = ['25265', '20200', '2083']
-int_elfo6 = map(int, elfo6)
+int_elfo5 = map(int, m2.elfo5)
 
-elfo7 = ['7424', '5830', '2575', '2825', '2234', '6106', '5505', '2847', '2059', '7145', '7223']
-int_elfo7 = map(int, elfo7)
+int_elfo6 = map(int, m2.elfo6)
 
-elfo8 = ['58621']
-int_elfo8 = map(int, elfo8)
+int_elfo7 = map(int, m2.elfo7)
 
-elfo9 = ['2926', '9188', '7432', '1639', '7420', '1161', '5517', '2703', '5446']
-int_elfo9 = map(int, elfo9)
+int_elfo8 = map(int, m2.elfo8)
 
-elfo10 = ['2457', '5814', '1294', '3280', '8531', '8214', '4736', '1964', '1155', '2380']
-int_elfo10 = map(int, elfo10)
+int_elfo9 = map(int, m2.elfo9)
 
-elfo11 = ['2812', '1827', '5533', '1756', '1491', '4127', '6452', '5935', '1415', '6221', '3489', '2681', '4849', '5250']
-int_elfo11 = map(int, elfo11)
+int_elfo10 = map(int, m2.elfo10)
 
-elfo12 = ['2922', '10365', '5819', '10227', '2962', '2702']
-int_elfo12 = map(int, elfo12)
+int_elfo11 = map(int, m2.elfo11)
 
-elfo13 = ['2982', '9254', '14137', '5026', '9374']
-int_elfo13 = map(int, elfo13)
+int_elfo12 = map(int, m2.elfo12)
 
-elfo14 = ['5933', '2888', '2250', '4514', '1825', '5616', '3497', '2988', '1181', '3836', '1032', '5847', '5383']
-int_elfo14 = map(int, elfo14)
+int_elfo13 = map(int, m2.elfo13)
 
-elfo15 = ['5044', '5922', '3155', '1610', '5510', '5016', '6666', '7024', '4649', '2764', '6444']
-int_elfo15 = map(int, elfo15)
+int_elfo14 = map(int, m2.elfo14)
 
-elfo16 = ['12932']
-int_elfo16 = map(int, elfo16)
+int_elfo15 = map(int, m2.elfo15)
 
-elfo17 = ['4764', '4285', '1278', '5020', '5917', '1888', '4757', '6323', '5067', '1314', '1530', '5748', '5573', '5848']
-int_elfo17 = map(int, elfo17)
+int_elfo16 = map(int, m2.elfo16)
 
-elfo18 = ['6078', '6687', '5510', '7642', '6719', '4376', '7733', '1356', '4064', '4159']
-int_elfo18 = map(int, elfo18)
+int_elfo17 = map(int, m2.elfo17)
 
-elfo19 = ['7426', '1147', '4176', '2797', '9484', '7907', '10806']
-int_elfo19 = map(int, elfo19)
+int_elfo18 = map(int, m2.elfo18)
 
-elfo20 = ['24981', '21675', '9324']
-int_elfo20 = map(int, elfo20)
+int_elfo19 = map(int, m2.elfo19)
 
-elfo21 = ['5537', '5730', '1280', '2090', '2963', '5992', '6043', '5141', '3039', '2120', '3664', '3816', '3859', '5406']
-int_elfo21 = map(int, elfo21)
+int_elfo20 = map(int, m2.elfo20)
 
-elfo22 = ['1315', '8662', '2280', '11800', '10201', '3886']
-int_elfo22 = map(int, elfo22)
+int_elfo21 = map(int, m2.elfo21)
 
-elfo23 = ['3048', '4147', '3299', '3912', '1571', '4582', '1621', '2201', '4543', '5377', '3016', '5297', '5213', '1338', '3929']
-int_elfo23 = map(int, elfo23)
+int_elfo22 = map(int, m2.elfo22)
 
-elfo24 = ['5456', '4051', '1621', '5228', '2672', '3277', '4006', '4954', '1487', '5361', '3298', '4335', '3015', '1139']
-int_elfo24 = map(int, elfo24)
+int_elfo23 = map(int, m2.elfo23)
 
-elfo25 = ['2875', '6387', '2926', '5439', '3494', '5287', '3793', '3714', '4944', '1094', '6728', '3302', '6345']
-int_elfo25 = map(int, elfo25)
+int_elfo24 = map(int, m2.elfo24)
 
-elfo26 = ['9641', '5967', '10265', '1129', '3759', '5632', '4913', '6151']
-int_elfo26 = map(int, elfo26)
+int_elfo25 = map(int, m2.elfo25)
 
-elfo27 = ['5890', '4285', '3601', '3344', '7294', '6321', '2730', '6352', '2350', '7214', '4034', '1032']
-int_elfo27 = map(int, elfo27)
+int_elfo26 = map(int, m2.elfo26)
 
-elfo28 = ['4266', '2086', '12754', '8475', '5044', '9616']
-int_elfo28 = map(int, elfo28)
+int_elfo27 = map(int, m2.elfo27)
+
+int_elfo28 = map(int, m2.elfo28)

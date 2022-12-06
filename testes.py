@@ -4,6 +4,7 @@ import variaveis as varss
 # defining which has more calories
 
 max1 = max(
+    varss.asoma1,
     varss.asoma2,
     varss.asoma3,
     varss.asoma4,

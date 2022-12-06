@@ -1,83 +1,58 @@
-elfo57 = [ '8230', '11577', '6426', '4671', '11838']
-int_elfo57 = map(int, elfo57)
+'''Declaring the group of Elf's calories as int.'''
+import main2 as m2
 
-elfo58 = [ '1726', '7355', '8115', '2780']
-int_elfo58 = map(int, elfo58)
+int_elfo57 = map(int, m2.elfo57)
 
-elfo59 = [ '1795', '4697', '10410', '8064', '2370', '9497', '1221']
-int_elfo59 = map(int, elfo59)
+int_elfo58 = map(int, m2.elfo58)
 
-elfo60 = [ '2909', '6719', '2733', '4335', '1327', '1672', '1297', '6705', '5209', '6690', '5855', '5432', '3804']
-int_elfo60 = map(int, elfo60)
+int_elfo59 = map(int, m2.elfo59)
 
-elfo61 = [ '7874', '7949', '6658', '1621', '8850', '3235', '9142', '2856']
-int_elfo61 = map(int, elfo61)
+int_elfo60 = map(int, m2.elfo60)
 
-elfo62 = [ '6968', '7042']
-int_elfo62 = map(int, elfo62)
+int_elfo61 = map(int, m2.elfo61)
 
-elfo63 = [ '7463', '8035', '4908', '5032', '4791', '2030', '1768', '8611', '2114', '8748']
-int_elfo63 = map(int, elfo63)
+int_elfo62 = map(int, m2.elfo62)
 
-elfo64 = [ '11054', '16021', '9826', '11604', '4819']
-int_elfo64 = map(int, elfo64)
+int_elfo63 = map(int, m2.elfo63)
 
-elfo65 = ['11214', '4850', '11665', '1891', '1347', '4053', '4570']
-int_elfo65 = map(int, elfo65)
+int_elfo64 = map(int, m2.elfo64)
 
-elfo66 = [ '66862']
-int_elfo66 = map(int, elfo66)
+int_elfo65 = map(int, m2.elfo65)
 
-elfo67 = [ '1597', '6127', '6229', '11518', '9308', '9661', '11410']
-int_elfo67 = map(int, elfo67)
+int_elfo66 = map(int, m2.elfo66)
 
-elfo68 = [ '13224', '1160', '1978', '13018', '14604']
-int_elfo68 = map(int, elfo68)
+int_elfo67 = map(int, m2.elfo67)
 
-elfo69 = [ '2773', '3885', '2383', '2850', '1758', '5724', '4418', '4637', '1510', '3870', '3793', '4116', '6281', '2026']
-int_elfo69 = map(int, elfo69)
+int_elfo68 = map(int, m2.elfo68)
 
-elfo70 = [ '3714', '2840', '2116', '3505', '3941', '6676', '5696', '3216', '6406', '4660', '4974', '2005', '5293']
-int_elfo70 = map(int, elfo70)
+int_elfo69 = map(int, m2.elfo69)
 
-elfo71 = [ '2580', '1645', '5677', '5376', '6527', '4410', '6837', '3069', '2399', '3727', '5658', '4817', '5911']
-int_elfo71 = map(int, elfo71)
+int_elfo70 = map(int, m2.elfo70)
 
-elfo72 = [ '2126', '2851', '2766', '8660', '8181', '3449', '2765', '1299']
-int_elfo72 = map(int, elfo72)
+int_elfo71 = map(int, m2.elfo71)
 
-elfo73 = [ '18470', '9129', '17956', '14494']
-int_elfo73 = map(int, elfo73)
+int_elfo72 = map(int, m2.elfo72)
 
-elfo74 = [ '1033', '4468', '5938', '2874', '2406', '1175', '5997']
-int_elfo74 = map(int, elfo74)
+int_elfo73 = map(int, m2.elfo73)
 
-elfo75 = [ '1256', '7932', '1544', '2772', '5709', '1348', '2919']
-int_elfo75 = map(int, elfo75)
+int_elfo74 = map(int, m2.elfo74)
 
-elfo76 =  [ '4399', '1449', '8295', '7470', '2088', '1958', '2857', '1722', '5204']
-int_elfo76 = map(int, elfo76)
+int_elfo75 = map(int, m2.elfo75)
 
-elfo77 = [ '8161', '6865', '6428', '4807', '2173', '8614', '5109', '1769', '2125']
-int_elfo77 = map(int, elfo77)
+int_elfo76 = map(int, m2.elfo76)
 
-elfo78 = [ '1112', '7417', '1328', '6385', '4670', '2840', '3293', '6438', '6639', '6129', '4144']
-int_elfo78 = map(int, elfo78)
+int_elfo77 = map(int, m2.elfo77)
 
-elfo79 = [ '5554', '15529', '1499']
-int_elfo79 = map(int, elfo79)
+int_elfo78 = map(int, m2.elfo78)
 
-elfo80 = [ '9459', '3175', '7412', '10610', '10283', '6807', '10056', '8657']
-int_elfo80 = map(int, elfo80)
+int_elfo79 = map(int, m2.elfo79)
 
-elfo81 =[ '5195', '1397', '5365', '3713', '4376', '4034', '2480', '2665', '2566', '4664', '5262', '5913', '2455', '6048', '4488']
-int_elfo81 = map(int, elfo81)
+int_elfo80 = map(int, m2.elfo80)
 
-elfo82 = [ '10875' ]
-int_elfo82 = map(int, elfo82)
+int_elfo81 = map(int, m2.elfo81)
 
-elfo83 = [ '5322', '8688', '2636', '14243']
-int_elfo83 = map(int, elfo83)
+int_elfo82 = map(int, m2.elfo82)
 
-elfo84 = [ '11403', '7465', '10079', '2270', '15254']
-int_elfo84 = map(int, elfo84)
+int_elfo83 = map(int, m2.elfo83)
+
+int_elfo84 = map(int, m2.elfo84)
