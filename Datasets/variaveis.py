@@ -1,15 +1,15 @@
 '''A file to turn all the lists into one value and keep them.'''
 # importing all the lists from the 'Datasets' folder.
 
-from Datasets import conj_1 as cj1
-from Datasets import conj_2 as cj2
-from Datasets import conj_3 as cj3
-from Datasets import conj_4 as cj4
-from Datasets import conj_5 as cj5
-from Datasets import conj_6 as cj6
-from Datasets import conj_7 as cj7
-from Datasets import conj_8 as cj8
-from Datasets import conj_9 as cj9
+import conj_1 as cj1
+import conj_2 as cj2
+import conj_3 as cj3
+import conj_4 as cj4
+import conj_5 as cj5
+import conj_6 as cj6
+import conj_7 as cj7
+import conj_8 as cj8
+import conj_9 as cj9
 
 # simple test of function:
 
